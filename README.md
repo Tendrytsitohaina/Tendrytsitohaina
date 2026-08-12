@@ -19,12 +19,12 @@
 
 ---
 
-### 👨‍💻 À propos de moi
+### À propos de moi
 
-- 🎓 Étudiant en **3ème année de Licence (L3)** à l'**École Nationale d'Informatique (ENI)** – Fianarantsoa.
-- 🏆 **3e place au concours Devhunt** (conception et développement d'une solution complète).
-- 💼 Actuellement à la recherche d'un **stage** et ouvert aux opportunités de développement web & mobile.
-- 🚀 Passionné par l'architecture logicielle, les interfaces modernes et le design intuitif.
+- Étudiant en **3ème année de Licence (L3)** à l'**École Nationale d'Informatique (ENI)** – Fianarantsoa.
+- **3e place au concours Devhunt** (conception et développement d'une solution complète).
+- Actuellement à la recherche d'un **stage** et ouvert aux opportunités de développement web & mobile.
+- Passionné par l'architecture logicielle, les interfaces modernes et le design intuitif.
 
 ---
 
@@ -49,17 +49,6 @@
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white" alt="Firebase" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
 </p>
-
----
-
-### 📊 Statistiques GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tendrytsitohaina&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tendrytsitohaina&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
-</div>
-
----
 
 <p align="center">
   ⚡ <i>"Transformer des idées en solutions numériques concrètes et utiles."</i>
