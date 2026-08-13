@@ -1,30 +1,11 @@
 <div align="center">
-  <h1 align="center">Salut, je suis Tendry Tsitohaina</h1>
-  <p align="center">
-    <strong>Développeur Full Stack & Mobile</strong> • Étudiant en L3 à l'<strong>École Nationale d'Informatique (ENI)</strong>
-  </p>
-  <p align="center">
-    Actuellement à la recherche d'un **stage** et ouvert aux opportunités de développement web & mobile.
-  </p>
-
-  <p align="center">
-    <a href="https://tendry-tsitohaina.vercel.app" target="_target">
-      <img src="https://img.shields.io/badge/🌐_Visiter_mon_Portfolio-4F46E5?style=for-the-badge&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="https://linkedin.com/in/TON-PROFIL" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:tendryrandriatsitohaina@email.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
+  <p align="left">
+    <strong>Développeur Full Stack & Mobile</strong> • Étudiant en L3 à l'<strong>École Nationale d'Informatique (ENI)</strong><br>
+    Actuellement à la recherche d'un stage et ouvert aux opportunités de développement web & mobile.
   </p>
 </div>
 
----
-
-### Technologies & Outils
-
-<p align="center">
+<p align="left">
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -40,9 +21,4 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-</p>
-
-<p align="center">
-   <i>"Transformer des idées en solutions numériques concrètes et utiles."</i>
 </p>
